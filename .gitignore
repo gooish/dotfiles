@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# excepts
+!README.md
+!.gitignore
+!/.config
+!.vimrc
+!.zshrc
+
