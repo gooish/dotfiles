@@ -1,0 +1,7 @@
+{
+    "autosu": true,
+    "clipboard": "terminal",
+    "keepautoindent": true,
+    "mkparents": true,
+    "tabstospaces": true
+}
