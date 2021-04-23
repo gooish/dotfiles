@@ -5,4 +5,4 @@ These are the dotfiles for my daily driver desktop setup. For text editing, it h
 Gruvbox for colour scheme
 
 # Todo
-Add other programs I use, add screenshot
+Add other programs I use, add screenshots.
